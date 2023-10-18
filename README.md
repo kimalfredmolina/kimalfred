@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **PHP, VB.Net**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Nothing**
 
 - 📫 How to reach me **kimalfred22molina@gmail.com**
 
