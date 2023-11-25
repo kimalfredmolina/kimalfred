@@ -8,9 +8,9 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **kimalfred22molina@gmail.com**
+- 📫 How to reach me **kimalfredmolina1224@gmail.com**
 
-- ⚡ Fun fact **I'm Lazy**
+- ⚡ Fun fact **I dont know**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
