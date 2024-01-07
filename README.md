@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimalfred&label=Profile%20views&color=0e75b6&style=flat" alt="kimalfred" /> </p>
 
-- 🌱 I’m currently learning **PHP, VB.Net, Python**
+- 🌱 I’m currently learning **Python, C#**
 
 - 💬 Ask me about **Nothing**
 
