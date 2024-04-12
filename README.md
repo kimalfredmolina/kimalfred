@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimalfred&label=Profile%20views&color=0e75b6&style=flat" alt="kimalfred" /> </p>
 
 
-- 🌱 I’m currently learning **Kotlin, Nodejs, MongoDB**
+- 🌱 I’m currently learning **Kotlin, NodeJs, ReactJs, MongoDB**
 
 - 💬 Ask me about **Nothing**
 
