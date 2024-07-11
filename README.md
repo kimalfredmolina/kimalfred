@@ -23,13 +23,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align=>
-  <h3 align="left">Frontend:</h3>
+  <h3 align="left">Languages:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,figma,bootstrap" />
-  </a>
-  <h3 align="left">Backend:</h3>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,java,python,django,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,php,java,python,django,visualstudio,bootstrap" />
   </a>
   <h3 align="left">DevOps:</h3>
    <a href="https://skillicons.dev">
