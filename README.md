@@ -21,7 +21,7 @@
 <a href="https://www.instagram.com/kim_alfredkim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kimalfred_kim" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align=>
   <h3 align="left">Languages:</h3>
   <a href="https://skillicons.dev">
