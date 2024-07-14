@@ -25,7 +25,7 @@
 <p align=>
   <h3 align="left">Languages:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,php,java,python,django,visualstudio,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,php,java,python,django,visualstudio,bootstrap" />
   </a>
   <h3 align="left">DevOps:</h3>
    <a href="https://skillicons.dev">
