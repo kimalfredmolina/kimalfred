@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kotlin, Firebase, C#, Django**
 
-- 💬 Ask me about **Web Development, BackEnd, FrontEnd**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **kimalfredmolina1224@gmail.com**
 
