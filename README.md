@@ -47,3 +47,6 @@
   <br>
   <img src="https://streak-stats.demolab.com?user=kimalfred&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" height="161em" alt="streak graph"  />
 </div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kimalfred&theme=radical&no-frame=true&no-bg=true&margin-w=4)
