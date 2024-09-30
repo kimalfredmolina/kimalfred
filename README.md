@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kotlin, Firebase, Django, MySQLite, Java Android, XML**
 
-- 💬 Ask me about **Web Development, Web Design's**
+- 💬 Ask me about **Web Development, Web Design's, Android Developement**
 
 - 📫 How to reach me **kimalfredmolina1224@gmail.com**
 
