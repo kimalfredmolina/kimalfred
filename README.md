@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kimalfredmolina1224@gmail.com**
 
-- ⚡ Fun fact **I dont know too**
+- ⚡ Fun fact **I dont know**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
